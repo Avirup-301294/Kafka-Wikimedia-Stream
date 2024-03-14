@@ -1,13 +1,13 @@
-package com.learnKafka.LearnKafka;
+package com.wikimedia.wikimediaStream;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LearnKafkaApplication {
+public class WikimediaStreamApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LearnKafkaApplication.class, args);
+		SpringApplication.run(WikimediaStreamApplication.class, args);
 	}
 
 }

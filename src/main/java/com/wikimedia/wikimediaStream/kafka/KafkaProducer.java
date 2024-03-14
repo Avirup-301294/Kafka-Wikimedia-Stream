@@ -1,4 +1,4 @@
-package com.learnKafka.LearnKafka.kafka;
+package com.wikimedia.wikimediaStream.kafka;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,4 +1,4 @@
-package com.learnKafka.LearnKafka.config;
+package com.wikimedia.wikimediaStream.config;
 
 import org.apache.kafka.clients.admin.NewTopic;
 import org.springframework.beans.factory.annotation.Value;

@@ -1,7 +1,7 @@
-package com.learnKafka.LearnKafka.controller;
+package com.wikimedia.wikimediaStream.controller;
 
-import com.learnKafka.LearnKafka.kafka.JsonKafkaProducer;
-import com.learnKafka.LearnKafka.payload.User;
+import com.wikimedia.wikimediaStream.kafka.JsonKafkaProducer;
+import com.wikimedia.wikimediaStream.payload.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

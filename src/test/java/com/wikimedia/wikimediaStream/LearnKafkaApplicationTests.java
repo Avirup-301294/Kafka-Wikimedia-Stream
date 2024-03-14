@@ -1,4 +1,4 @@
-package com.learnKafka.LearnKafka;
+package com.wikimedia.wikimediaStream;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

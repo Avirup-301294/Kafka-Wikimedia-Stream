@@ -1,6 +1,6 @@
-package com.learnKafka.LearnKafka.kafka;
+package com.wikimedia.wikimediaStream.kafka;
 
-import com.learnKafka.LearnKafka.payload.User;
+import com.wikimedia.wikimediaStream.payload.User;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

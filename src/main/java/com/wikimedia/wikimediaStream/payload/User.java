@@ -1,4 +1,4 @@
-package com.learnKafka.LearnKafka.payload;
+package com.wikimedia.wikimediaStream.payload;
 
 public class User {
     private int id;

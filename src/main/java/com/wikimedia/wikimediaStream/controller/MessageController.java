@@ -1,6 +1,6 @@
-package com.learnKafka.LearnKafka.controller;
+package com.wikimedia.wikimediaStream.controller;
 
-import com.learnKafka.LearnKafka.kafka.KafkaProducer;
+import com.wikimedia.wikimediaStream.kafka.KafkaProducer;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
